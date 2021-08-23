@@ -1,6 +1,5 @@
 package tests.tests;
 
-import com.codeborne.selenide.Condition;
 import io.appium.java_client.MobileBy;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
